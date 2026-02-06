@@ -11,7 +11,7 @@ Nilay Jain
 Karan Lokhande
 Yuvan Jain
 Meer Magia
-[cite_start]Dept. of Artificial Intelligence, NMIMS Mukesh Patel School of Technology Management and Engineering[cite: 105, 108, 114, 116].
+Dept. of Artificial Intelligence, NMIMS Mukesh Patel School of Technology Management and Engineering.
 
 Methodology
 
